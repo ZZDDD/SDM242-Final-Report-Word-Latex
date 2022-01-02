@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.29)  25 DEC 2021 23:49
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.29)  30 DEC 2021 21:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**conference_101719
-(./conference_101719.tex
+**SDM242_Final_Report_12012706_ZidingZhao
+(./SDM242_Final_Report_12012706_ZidingZhao.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (./IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -202,8 +202,8 @@ File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count276
 \g__pdf_backend_annotation_int=\count277
 \g__pdf_backend_link_int=\count278
-) (./conference_101719.aux)
-\openout1 = `conference_101719.aux'.
+) (./SDM242_Final_Report_12012706_ZidingZhao.aux)
+\openout1 = `SDM242_Final_Report_12012706_ZidingZhao.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -382,18 +382,18 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3] (./conference_101719.aux)
+[3] (./SDM242_Final_Report_12012706_ZidingZhao.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
  3594 strings out of 478870
- 53073 string characters out of 5865644
- 376667 words of memory out of 5000000
+ 53293 string characters out of 5865644
+ 375711 words of memory out of 5000000
  23440 multiletter control sequences out of 15000+600000
  412705 words of font info for 77 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 68i,11n,74p,587b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,74p,609b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on conference_101719.pdf (3 pages).
+Output written on SDM242_Final_Report_12012706_ZidingZhao.pdf (3 pages).
